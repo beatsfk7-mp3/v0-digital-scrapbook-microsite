@@ -20,19 +20,19 @@ export function Scrapbook({ onBack, spotifyPlaylistId, spotifyPlaylistUrl }: Scr
 
   const scrapbookPages: ScrapbookPage[] = [
     {
-      media: "/1.mp4",
+      media: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_qwZ60VyCZWr9Z6DYKlqQQ62hLWyO/ZPaLZOS4oEMVLv4x9QRIAq/public/1.mp4",
       type: "video",
     },
     {
-      media: "/2.mp4",
+      media: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_qwZ60VyCZWr9Z6DYKlqQQ62hLWyO/fKlbi6mM7iuiN1msVD07Hy/public/2.mp4",
       type: "video",
     },
     {
-      media: "/3.mp4",
+      media: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_qwZ60VyCZWr9Z6DYKlqQQ62hLWyO/12lilsi9jcP16rEZGH61E0/public/3.mp4",
       type: "video",
     },
     {
-      media: "/4.mp4",
+      media: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/git-blob/prj_qwZ60VyCZWr9Z6DYKlqQQ62hLWyO/ewEEJzhQJpKHh73QYqQRbE/public/4.mp4",
       type: "video",
     },
   ]
