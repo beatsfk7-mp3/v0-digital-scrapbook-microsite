@@ -1,4 +1,7 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap");
 @import "tw-animate-css";
 
@@ -171,7 +174,6 @@
     animation: fadeIn 0.8s ease-out;
   }
 
-  /* Adding smooth hover animations for interactive elements */
   @keyframes float {
     0%,
     100% {
